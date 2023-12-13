@@ -1,6 +1,6 @@
 import React from "react";
 
-import Guess from "../Guess";
+import Guess from "../GuessInput";
 import RenderGuesses from "../RenderGuesses";
 
 import { sample } from "../../utils";
